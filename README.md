@@ -37,7 +37,7 @@ DATABASE=your_db
 USER=your_user
 PASSWORD=your_password
 ```
-### 3. Создайте таблицу в базе - pапустите скрипт:
+### 3. Создайте таблицу в базе - запустите скрипт:
 
 ```bash
 python create_DB.py
